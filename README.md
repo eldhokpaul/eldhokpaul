@@ -1,7 +1,7 @@
-### Howdy 👋
+## Howdy 👋
 **I'm Eldho K Paul** - a seasoned Senior Software Engineer with over 4 years of specialized expertise in building robust web applications using Vue.js.
 
-- 🚀 Front-end Web Developer.[Click me](https://eldhokpaul.netlify.app/)
+- 🚀 Front-end Web Developer. ![Click me](https://eldhokpaul.netlify.app/)
 - 🔭 I’m currently working on [Vue.js](https://vuejs.org/),[TypeScript](https://www.typescriptlang.org/),[Java Spring Boot](https://spring.io/projects/spring-boot),[Docker](https://www.docker.com/)
 - 🌱 I’m currently learning about Vue 3
 - 👯 I’m looking to collaborate on anything challenging, [hmu](mailto:eldhokpaul007@gmail.com)
@@ -11,6 +11,7 @@
 
 [![Tech stack](https://skillicons.dev/icons?i=vue,nuxt,ts,js,vuetify,tailwind,java,postgres,netlify,aws,docker)](https://github.com/eldhokpaul)
 
+## GitHub stats
 <details>
   <summary>Github Stats ⚡</summary>
   
