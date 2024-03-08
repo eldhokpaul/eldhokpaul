@@ -4,7 +4,7 @@
 - 🚀 Front-end Web Developer. [Click me](https://eldhokpaul.netlify.app/)
 - 🔭 I’m currently working on [Vue.js](https://vuejs.org/), [TypeScript](https://www.typescriptlang.org/), [Java Spring Boot](https://spring.io/projects/spring-boot), [Docker](https://www.docker.com/)
 - 🌱 I’m currently learning about Vue 3
-- 👯 I’m looking to collaborate on anything challenging, [hmu](mailto:eldhokpaul007@gmail.com)
+- 👯 I’m looking to collaborate on anything challenging, [Email](mailto:eldhokpaul007@gmail.com)
 - ❤️ I love working on projects that push my boundaries and are beneficial to others.
 
 ## Stuff I'm using
