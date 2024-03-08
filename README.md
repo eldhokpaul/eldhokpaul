@@ -15,6 +15,7 @@
 
 <details>
   <summary>Github Stats ⚡</summary>
+  
   ![Eldho's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldhokpaul&show_icons=true&theme=transparent)
 </details>
 
