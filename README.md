@@ -9,7 +9,7 @@
 
 ## Stuff I'm using
 
-[![Tech stack](https://skillicons.dev/icons?i=vue,nuxt,ts,js,vuetify,tailwind,java,postgres,netlify,aws,docker)](https://github.com/eldhokpaul)
+[![Tech stack](https://skillicons.dev/icons?i=vue,nuxt,ts,js,vuetify,tailwind,postgres,netlify,aws,docker)](https://github.com/eldhokpaul)
 
 ## GitHub stats
 
